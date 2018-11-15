@@ -1,0 +1,23 @@
+body {
+    background-color: burlywood;
+}
+.pageHeader {
+    text-align: center;
+}
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+
+.shop {
+    display: flex;
+    flex-basis: 31%;
+
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 8px;
+}
