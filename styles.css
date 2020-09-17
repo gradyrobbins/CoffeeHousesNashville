@@ -1,9 +1,16 @@
+
+@import url(//db.onlinewebfonts.com/c/2a59cc65ee808e05e19fe3f1158f56b9?family=TIMMONS_NY_FINAL);
+
+
+
 body {
 background-color: #D0D0CE;
 }
 .pageHeader {
     text-align: center;
     color: #201547;
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: xx-large;
 }
 .list {
     display: flex;
@@ -17,13 +24,13 @@ background-color: #D0D0CE;
 
         padding: 1em;
         margin: 0.5em;
-        text-align: center; /* Center align the text in the boxes */
-background-color: #BBBCBC;
-border: solid 2px #201547;
+        text-align: center;
+
+background-color: #201547;
+
+border: solid 4px #EDE939;
 border-style: groove;
-outline: 1px solid #EDE939;
+color: whitesmoke;
+font-size: larger;
+font-family: 'Rubik Mono One', sans-serif;
 }
-
-
-
-
