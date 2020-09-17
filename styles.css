@@ -18,8 +18,10 @@ background-color: #D0D0CE;
         padding: 1em;
         margin: 0.5em;
         text-align: center; /* Center align the text in the boxes */
-
-
+background-color: #BBBCBC;
+border: solid 2px #201547;
+border-style: groove;
+outline: 1px solid #EDE939;
 }
 
 
