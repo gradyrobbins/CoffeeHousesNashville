@@ -1,5 +1,4 @@
-
-@import url(//db.onlinewebfonts.com/c/2a59cc65ee808e05e19fe3f1158f56b9?family=TIMMONS_NY_FINAL);
+@import "shop.css";
 
 
 
@@ -19,18 +18,3 @@ background-color: #D0D0CE;
 }
 
 
-.shop {
-    flex-basis: 16%;
-
-        padding: 1em;
-        margin: 0.5em;
-        text-align: center;
-
-background-color: #201547;
-
-border: solid 4px #EDE939;
-border-style: groove;
-color: whitesmoke;
-font-size: larger;
-font-family: 'Rubik Mono One', sans-serif;
-}

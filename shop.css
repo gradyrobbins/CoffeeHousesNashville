@@ -1,0 +1,28 @@
+/* Creating visual hierarchies.
+
+Add an address, phone number, website link, and menu link to each coffee house (you may use mock/fake data). */
+
+.shop {
+    flex-basis: 16%;
+    padding: 1em;
+    margin: 0.5em;
+    text-align: center;
+    background-color: #201547;
+    border: solid 4px #EDE939;
+    border-style: groove;
+    color: whitesmoke;
+    font-size: larger;
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.shop h6 {
+    text-align: center;
+}
+
+a {
+    color: whitesmoke;
+}
+
+.shop a:hover {
+    background-color: #EDE939;
+}
