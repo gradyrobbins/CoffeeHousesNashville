@@ -14,7 +14,7 @@
 
 ### UI/UX Challenge:  See Issues card in Projects Tab for details
 
-
+![HTML](./coffeehouses_UIUX_Screengrab.png)
 
 
 #### Credit: [NSS Client-side Mastery](https://github.com/nashville-software-school/client-side-mastery)
