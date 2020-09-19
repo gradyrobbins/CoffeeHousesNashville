@@ -24,5 +24,10 @@ a {
 }
 
 .shop a:hover {
-    background-color: #EDE939;
+    color: #EDE939;
+    background-color: #201547;
+}
+
+a:visited {
+    color: #8aDA55;
 }
