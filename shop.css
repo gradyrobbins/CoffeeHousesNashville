@@ -3,10 +3,13 @@
 Add an address, phone number, website link, and menu link to each coffee house (you may use mock/fake data). */
 
 .shop {
+    display: flex;
+    flex-direction: column;
     flex-basis: 16%;
-    padding: 1em;
+    padding: 1rem;
     margin: 0.5em;
     text-align: center;
+    justify-content: space-between;
     background-color: #201547;
     border: solid 4px #EDE939;
     border-style: groove;
@@ -30,4 +33,33 @@ a {
 
 a:visited {
     color: #8aDA55;
+}
+
+.parent {
+    height: auto;
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.visual {
+    height: 100px;
+    width: 100%;
+    border: 2px solid red;
+}
+
+h3 {
+    margin: 0
+}
+
+.pink {
+    background-color: pink;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
 }
